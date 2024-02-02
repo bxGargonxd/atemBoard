@@ -5,4 +5,5 @@ Das Board wird von zwei Arduinos ausgelesen und gesteuert, die Hauptsoftware lä
 | Ordner  | Inhalt |
 | ------------- | ------------- |
 | ArduinoAtemBridge-first try  | erster funktionierender Versuch einer Software als Bridge zwischen den Arduinos und dem ATEM  |
-| DD2MEArduino-main  | coder der auf den Arduinos läuft  |
+| DD2MEArduino-main  | code, der auf den Arduinos läuft  |
+| ArduinoAtemBride | neuer, aktueller Ansatz mit QT, noch ohne Dokumentation und exception handling |
