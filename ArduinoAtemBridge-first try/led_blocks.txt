@@ -1,0 +1,110 @@
+array number / bit number
+
+ODD
+?/1 Some Wipe (Block)
+?/2 Some Wipe (Potis, Block)
+?/3 Some Wipe (Potis)
+24-49/1 DSK
+24-49/2 Keyers und 1 LED von DSK
+0-71/5 Trans ME1 rest, DSK some
+2-15/7-8 preview & live 1-6 for ME1 and ME2
+18-23/6 source select odd pcb (1-6)
+20-29/2 Keyers lowes row
+20-23/3 NULL
+3/1 Wipe User3
+11/1 Wipe User2
+19/2 Wipe User4
+24/2 Keyers Key On
+24/3 Trans ME2 DVE Over LED
+24/4 Trans ME1 DSK1 On LED
+24/5 Trans ME1 Layer LED
+25/3 Trans ME2 B LED
+25/4 Trans ME1 BGD L
+25/5 Trans ME1 Up Arrow
+26/3 Trans ME2 Layer LED
+26/4 Trans ME1 Trans Prev
+26/5 Trans ME1 Wipe 2 Over LED
+27/3 Trans ME2 A LED
+27/4 Trans ME1 Trans Dur
+27/5 Trans ME1 Wipe 1 Over LED
+28/3 Trans ME2 Key2 On LED
+28/4 Trans ME1 BLK PST
+28/5 Trans ME1 DSK 2 On LED
+29/3 Trans ME2 Key1 On LED
+29/4 Trans ME1 DVE
+29/5 DSK Trans Dur R On LED
+30/2 Keyers Lum Lin
+30/3 Trans ME2 BGD R On LED
+30/4 Trans ME1 CUT
+30/5 DSK Split Key LED
+31/2 Keyers Add Lin
+31/3 Trans ME2 BGD L On LED
+31/4 Trans ME1 Auto
+31/5 NULL
+32/2 DSK DSK1 Trans Dur On LED
+32/3 Trans ME2 Down Arrow
+32/4 Trans ME2 Up Arrow
+32/5 Trans ME1 B LED
+33/3 Trans ME2 trans_prev
+33/4 Trans ME1 Wipe 2
+33/5 DSK Chr Key
+34/3 Trans ME2 trans dur
+34/4 Trans ME1 Wipe 1
+34/5 DSK Lum Lin
+35/3 Trans ME2 DVE
+35/4 Trans ME1 Add
+35/5 DSK Add Lin
+36/3 Trans ME2 Wipe2
+36/4 Trans ME1 Mix
+36/5 DSK DSK2 Auto
+37/3 Trans ME2 Wipe1
+37/4 Trans ME1 DSK2
+37/5 DSK DSK1 Auto
+38/3 Trans ME2 BGD R
+38/4 Trans ME1 DSK1
+38/5 DSK DSK2 Cut
+39/3 Trans ME2 CUT
+39/4 Trans ME1 BGD R
+39/5 DSK DSK1 Cut
+40/3 Trans ME2 Wipe2 Over LED
+40/1 Trans ME1 Down Arrow
+40/5 Trans ME1 BGD L On LED
+41/3 Trans ME2 blk pst
+41/5 Trans ME1 A LED
+42/3 Trans ME2 add
+42/5 Trans ME1 BGD R On LED
+43/3 Trans ME2 mix
+43/5 DSK BGD B
+44/3 Trans ME2 BGD L 
+44/5 DSK Trans Dur R
+45/3 Trans ME2 limit on
+45/5 DSK Trans Dur L
+46/3 Trans ME2 limit set
+46/5 Trans ME1 Limit On
+47/2 Keyers Key Over
+47/3 Trans ME2 Auto
+47/5 Trans ME1 Limit Set
+48/3 NULL
+48/2 NULL
+48/5 
+49/5 
+50/5 
+40-71/4 Trans ME2 Key 1&2, Keyers Border
+
+
+
+
+EVEN
+0-7/5-8 preview 7-20 for ME1 and ME2
+8-23/3 source selct row even pcb (zu groﬂ)
+9-15/5-8 live 7-20 for ME1 and ME2
+28/8 Display VTR Enbl
+36/6 Display exit
+39/8 Display GPI Enbl
+45/3 ftb ftb
+46/3 ftb cut
+47/8 Display Edit Enbl
+
+36-72 media states
+40-50 Edit Enbl
+

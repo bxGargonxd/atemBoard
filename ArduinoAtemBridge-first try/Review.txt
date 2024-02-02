@@ -1,0 +1,6 @@
+Live.cpp
+Line 59 into manageInput into handleInput
+
+
+load something reasonable into the fader buffers on start up
+rewrite BSTRToCString into BSTRToString, fuck C

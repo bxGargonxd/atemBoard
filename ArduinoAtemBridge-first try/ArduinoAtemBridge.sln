@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoAtemBridge", "ArduinoAtemBridge.vcxproj", "{7313B625-3ECA-4AEE-A584-AD891ABB546B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug ArduinoTest|x64 = Debug ArduinoTest|x64
+		Debug ArduinoTest|x86 = Debug ArduinoTest|x86
+		Debug AtemTest|x64 = Debug AtemTest|x64
+		Debug AtemTest|x86 = Debug AtemTest|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		LiveDebug|x64 = LiveDebug|x64
+		LiveDebug|x86 = LiveDebug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug ArduinoTest|x64.ActiveCfg = Debug ArduinoTest|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug ArduinoTest|x64.Build.0 = Debug ArduinoTest|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug ArduinoTest|x86.ActiveCfg = Debug ArduinoTest|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug ArduinoTest|x86.Build.0 = Debug ArduinoTest|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug AtemTest|x64.ActiveCfg = Debug AtemTest|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug AtemTest|x64.Build.0 = Debug AtemTest|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug AtemTest|x86.ActiveCfg = Debug AtemTest|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug AtemTest|x86.Build.0 = Debug AtemTest|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug|x64.ActiveCfg = Debug|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug|x64.Build.0 = Debug|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Debug|x86.Build.0 = Debug|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.LiveDebug|x64.ActiveCfg = LiveDebug|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.LiveDebug|x64.Build.0 = LiveDebug|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.LiveDebug|x86.ActiveCfg = LiveDebug|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.LiveDebug|x86.Build.0 = LiveDebug|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Release|x64.ActiveCfg = Release|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Release|x64.Build.0 = Release|x64
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Release|x86.ActiveCfg = Release|Win32
+		{7313B625-3ECA-4AEE-A584-AD891ABB546B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F1CF29-7EDA-4779-8377-14D798901797}
+	EndGlobalSection
+EndGlobal
